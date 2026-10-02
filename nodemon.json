@@ -1,0 +1,13 @@
+{
+  "ignore": [
+    "upload/keywords/sp-report/*",
+    "upload/placements/sp-report/*",
+    "upload/placements/sb-report/*",
+    "upload/placements/sd-report/*",
+    "upload/targets/sp-target/*",
+    "upload/adGroups/sb-report/*",
+    "upload/adGroups/sd-report/*",
+    "upload/keyword/sb-report/*",
+    "upload/keyword/sd-report/*"
+  ]
+}

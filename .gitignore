@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Binaries & Executables
+*.exe
+ngrok.exe
+
+# Logs
+logs/
+*.log
+
+# Uploads
+upload/
+
+# Editor & OS
+.claude/
+.mcp.json
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
